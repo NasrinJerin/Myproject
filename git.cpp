@@ -11,3 +11,7 @@ int main() {
   myFunction(); // call the function
   return 0;
 
+  void myFunction3() {
+  cout << "I just got executed!";
+}
+
